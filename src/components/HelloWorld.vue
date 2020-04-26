@@ -18,6 +18,7 @@ export default {
     msg: String
   }
 }
+/// kjhkhkhkh
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
